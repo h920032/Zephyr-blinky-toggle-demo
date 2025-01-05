@@ -1,0 +1,3 @@
+&green_pwm_led {
+	pwms = <&pwm2 2 PWM_USEC(1) 1>;
+};
